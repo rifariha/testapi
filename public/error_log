@@ -1,0 +1,2 @@
+[27-Apr-2020 11:03:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/apan4953/public_html/api/aparhafiza/app/Http/Controllers/Api/ApiController.php on line 7
+[27-Apr-2020 11:04:36 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Api\Controller' not found in /home/apan4953/public_html/api/aparhafiza/app/Http/Controllers/Api/ApiController.php on line 7
